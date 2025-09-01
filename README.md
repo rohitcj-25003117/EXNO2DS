@@ -15,7 +15,7 @@ STEP 3: Use boxplot method to analyze the outliers of the given dataset.
 STEP 4: Remove the outliers using Inter Quantile Range method.
 
 STEP 5: Use Countplot method to analyze in a graphical method for categorical data.
-
+ 
 STEP 6: Use displot method to represent the univariate distribution of data.
 
 STEP 7: Use cross tabulation method to quantitatively analyze the relationship between multiple variables.
